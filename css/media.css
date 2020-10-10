@@ -1,4 +1,4 @@
-/* @media (max-width: 1200px) {
+@media (max-width: 1200px) {
     .col-4 {
         width: var(--col-6);
     }
@@ -116,5 +116,5 @@
     .footer__text {
         padding: 0 15px;
     }
-} */
+} 
 
